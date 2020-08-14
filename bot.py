@@ -3,6 +3,8 @@ import random
 
 # Подключаем модуль для Телеграма
 # PyTelegramBotAPI
+from typing import List
+
 import telebot
 # Импортируем типы из модуля, чтобы создавать кнопки
 from telebot import types
