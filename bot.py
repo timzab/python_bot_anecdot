@@ -37,19 +37,6 @@ with open("animals.txt", "r", encoding="utf-8") as f:
 with open("barin.txt", "r", encoding="utf-8") as f:
     for line in f:
         barin = line.split('*')
-# with open("housewife2.txt", "r", encoding="utf-8") as f:
-#     for line in f:
-#         housewife = line.split('*')
-# with open("health2.txt", "r", encoding="utf-8") as f:
-#     for line in f:
-#         health = line.split('*')
-# with open("man2.txt", "r", encoding="utf-8") as f:
-#     for line in f:
-#         man = line.split('*')
-# with open("birthday2.txt", "r", encoding="utf-8") as f:
-#     for line in f:
-#         birthday = line.split('*')
-
 
 # Метод, который получает сообщения и обрабатывает их
 
